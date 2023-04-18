@@ -3,4 +3,4 @@ project(00_CHelloWorld C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_library(00_CHelloWorld library.c)
+add_library(00_CHelloWorld hello.c)
