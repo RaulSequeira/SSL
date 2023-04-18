@@ -13,7 +13,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
 
-Proyecto dedicado para la entrega de trabajos practicos de la materia Sintaxis y Semantica de los Lenguajes
+Proyecto dedicado para la entrega de trabajos practicos de la materia Sintaxis y Semantica de los Lenguajes.
+Compilador seleccionado: C11
 
 Contenido:
 * TP0: "Hello, World!" en C.
