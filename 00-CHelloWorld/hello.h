@@ -1,6 +1,0 @@
-#ifndef INC_00_CHELLOWORLD_HELLO_H
-#define INC_00_CHELLOWORLD_HELLO_H
-
-void hello(void);
-
-#endif //INC_00_CHELLOWORLD_HELLO_H
