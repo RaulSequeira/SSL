@@ -1,5 +1,3 @@
-#include "hello.h"
-
 #include <stdio.h>
 int main() {
     char *nombreArchivo = "output.txt";
