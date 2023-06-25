@@ -18,4 +18,5 @@ Compilador seleccionado: C11
 
 Contenido:
 * TP0: "Hello, World!" en C.
+* TP1: Interfaces & Makefile — Temperaturas.
 
