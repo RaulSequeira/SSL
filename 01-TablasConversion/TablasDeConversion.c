@@ -8,7 +8,7 @@ int main(void) {
  
     int fahr;
     for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP) {
-        printf("%3d %6.1f\n", fahr, GetCelsFromFahr(fahr));
+        printf("%3d %6.1f\n", fahr, Celsius(fahr));
     }
  
     return 0;
